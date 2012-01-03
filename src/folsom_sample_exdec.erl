@@ -35,6 +35,7 @@
 -export([
          new/2,
          update/2,
+         update/3,
          get_values/1
         ]).
 
